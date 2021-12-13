@@ -12,6 +12,7 @@ dependencies:
   - joblib
   - intake
   - intake-xarray
+  - ipyleaflet
   - metpy
   - nbgitpuller
   - pandas
