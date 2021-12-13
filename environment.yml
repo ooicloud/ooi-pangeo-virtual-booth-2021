@@ -9,6 +9,7 @@ dependencies:
   - geoviews
   - hvplot
   - jupyter-panel-proxy
+  - joblib
   - intake
   - intake-xarray
   - metpy
