@@ -17,6 +17,7 @@ dependencies:
   - nbgitpuller
   - pandas
   - requests
+  - seawater
   - tqdm
   - xarray
   - zarr
