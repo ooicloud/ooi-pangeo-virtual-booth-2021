@@ -28,7 +28,7 @@ https://odu.co1.qualtrics.com/jfe/form/SV_eYdio32jPn7i9vM
 ## Science in the petabyte era 🔮
 
 ## Hands-on! 🔧
- - Seafloor pressure data at Axial Volcano
+ - Seafloor pressure data at Axial Volcano direct data access
  - Earthquake catalog at Axial
  - Multi-ERRDAP search capability
  - 500 million images from the OOI HD video camera
